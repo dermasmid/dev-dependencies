@@ -1,7 +1,10 @@
 # Run
+```bash
+git clone https://github.com/dermasmid/dev-dependencies && cd dev-dependencies
 sudo bash ./install.sh
+```
 
-# List of app
+# List of apps
 * `anydesk` - Remote Desktop
 * `chrome`
 * `vs code`
