@@ -1,7 +1,6 @@
 # Run
 ```bash
-git clone https://github.com/dermasmid/dev-dependencies && cd dev-dependencies
-sudo bash ./install.sh
+sudo apt update && sudo apt install git -y && git clone https://github.com/dermasmid/dev-dependencies && cd dev-dependencies && sudo bash ./install.sh
 ```
 
 # List of apps
